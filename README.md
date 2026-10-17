@@ -52,4 +52,4 @@ You can stop the process at any time with `Ctrl+C`.
 
 ## Creditos
 
-[KauaKz](https://github.com/KauaZs)
+[KauaZs](https://github.com/KauaZs)
