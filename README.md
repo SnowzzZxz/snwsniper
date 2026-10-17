@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SnowzzZxz/snwsniper/main/assets/snwsniper-banner.png" alt="SNWSNIPER Banner"/>
+</p>
+
 # SNWSNIPER
 
 Snow Sniper (snwsniper) é uma ferramenta de linha de comando (CLI) para gerar e verificar nicknames disponíveis no Minecraft de forma rápida e fácil.
