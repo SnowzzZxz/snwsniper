@@ -6,14 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx src/index.ts",
-    "build": "tsc --project tsconfig.json",
-    "prepublishOnly": "npm run build"
+    "build": "tsc --project tsconfig.json"
   },
   "bin": {
     "snwsniper": "dist/index.js"
   },
-  "files": ["dist"],
-  "keywords": ["minecraft", "nickname", "sniper", "cli"],
+  "keywords": [],
   "author": "SnowzzZxz",
   "license": "MIT",
   "devDependencies": {
