@@ -1,15 +1,19 @@
 {
   "name": "snwsniper",
   "version": "1.0.0",
-  "description": "Ferramenta CLI para gerar e verificar nicknames disponíveis no Minecraft.",
+  "description": "CLI tool for generating and checking available Minecraft nicknames quickly and easily.",
   "main": "index.js",
+  "bin": {
+    "snwsniper": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx src/index.ts",
-    "build": "tsc --project tsconfig.json"
-  },
-  "bin": {
-    "snwsniper": "dist/index.js"
+    "build": "tsc --project tsconfig.json",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [],
   "author": "SnowzzZxz",
