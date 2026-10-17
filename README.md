@@ -20,3 +20,32 @@ Instale o snwsniper globalmente via npm:
 
 ```bash
 npm install -g snwsniper
+Ou use como dependência local no seu projeto:
+
+bash
+npm install snwsniper
+Uso
+Rodar em modo de desenvolvimento:
+
+bash
+npm run dev
+Ou usar globalmente (após o build):
+
+bash
+npm install -g .
+snwsniper
+Opções da CLI
+A ferramenta vai te perguntar:
+
+Tamanho do nickname (3 a 16 caracteres)
+
+Prefixo (opcional)
+
+Permitir números? (s/n)
+
+Quantos nicknames gerar
+
+Você pode interromper o processo a qualquer momento com Ctrl+C.
+
+Autor
+SnowzzZxz — github.com/SnowzzZxz
