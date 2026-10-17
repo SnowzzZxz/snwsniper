@@ -50,6 +50,6 @@ You can stop the process at any time with `Ctrl+C`.
 
 **SnowzzZxz** — [github.com/SnowzzZxz](https://github.com/SnowzzZxz)
 
-## License
+## Creditos
 
-MIT
+[MIT](https://github.com/KauaZs)
